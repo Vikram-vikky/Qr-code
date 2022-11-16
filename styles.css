@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&family=Poppins&display=swap');
+body {
+    margin: 0;
+    background-color: hsl(212, 45%, 89%);
+}
+.white {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto; 
+    width: 250px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 4%;
+    height: 400px;
+    text-align: center;
+    border-radius: 20px;
+}
+img {
+    border-radius: 20px;
+}
+a {
+    text-decoration: none;
+    color: #66bfbf ;
+}
+a:hover{
+    color: black;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    font-family: 'cabin', sans-serif;
+    margin: 0;
+}
